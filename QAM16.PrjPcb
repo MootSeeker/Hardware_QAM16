@@ -201,6 +201,40 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XFBPIXKT
 
+[Document10]
+DocumentPath=DAC.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QEHUPNOT
+
+[Document11]
+DocumentPath=ADC.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CNKYDEAU
+
 [ProjectVariant1]
 UniqueID=EE5751F6-655E-4F63-A3EE-5618910CC074
 Description=242273A201
@@ -611,68 +645,68 @@ Name=VariantDescription
 Value=THT - LQFP
 
 [Parameter1]
-Name=Stencil_Thickness
-Value=0.125mm
+Name=Altium_Version
+Value=Release 22.10
 
 [Parameter2]
-Name=Schematic_Designer
-Value=PEK
-
-[Parameter3]
-Name=Revision_V
-Value=a
-
-[Parameter4]
-Name=Project_Name
-Value=QAM16-Board
-
-[Parameter5]
-Name=PCB_Thickness
-Value=1.60 mm
-
-[Parameter6]
-Name=PCB_Surface
-Value=green
-
-[Parameter7]
-Name=PCB_Solder_Surface
-Value=chem.NiAu - partial (or HAL)
-
-[Parameter8]
-Name=PCB_Silkscreen
-Value=Top
-
-[Parameter9]
-Name=PCB_Nummer
-Value=66.1910.0101
-
-[Parameter10]
-Name=PCB_Material
-Value=FR-4 / UL94V-0 (or FR-5/Polyimid)
-
-[Parameter11]
-Name=PCB_Layer_Count
-Value=4
-
-[Parameter12]
-Name=PCB_Designer
-Value=PEK
-
-[Parameter13]
-Name=PCB_Data
-Value=Gerber
-
-[Parameter14]
-Name=PCB_Copper_Thickness
-Value=35um
-
-[Parameter15]
 Name=PCB_Controll
 Value=electronic
 
+[Parameter3]
+Name=PCB_Copper_Thickness
+Value=35um
+
+[Parameter4]
+Name=PCB_Data
+Value=Gerber
+
+[Parameter5]
+Name=PCB_Designer
+Value=PEK
+
+[Parameter6]
+Name=PCB_Layer_Count
+Value=4
+
+[Parameter7]
+Name=PCB_Material
+Value=FR-4 / UL94V-0 (or FR-5/Polyimid)
+
+[Parameter8]
+Name=PCB_Nummer
+Value=66.1910.0101
+
+[Parameter9]
+Name=PCB_Silkscreen
+Value=Top
+
+[Parameter10]
+Name=PCB_Solder_Surface
+Value=chem.NiAu - partial (or HAL)
+
+[Parameter11]
+Name=PCB_Surface
+Value=green
+
+[Parameter12]
+Name=PCB_Thickness
+Value=1.60 mm
+
+[Parameter13]
+Name=Project_Name
+Value=QAM16-Board
+
+[Parameter14]
+Name=Revision_V
+Value=a
+
+[Parameter15]
+Name=Schematic_Designer
+Value=PEK
+
 [Parameter16]
-Name=Altium_Version
-Value=Release 22.10
+Name=Stencil_Thickness
+Value=0.125mm
 
 [Configuration1]
 Name=Default Configuration
