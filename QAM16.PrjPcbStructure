@@ -5,4 +5,6 @@ Record=SheetSymbol|SourceDocument=MasterSheet.SchDoc|Designator=U_Display|SchDes
 Record=SheetSymbol|SourceDocument=MasterSheet.SchDoc|Designator=U_IMU|SchDesignator=U_IMU|FileName=Sensors.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=Sensors.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=MasterSheet.SchDoc|Designator=U_Microcontroller|SchDesignator=U_Microcontroller|FileName=Microcontroller.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Microcontroller.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=MasterSheet.SchDoc|Designator=U_Supply|SchDesignator=U_Supply|FileName=Supply.SchDoc|SheetNumber=8|SymbolType=Normal|RawFileName=Supply.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=MasterSheet.SchDoc|FileName=ADC.SchDoc|SheetNumber=1
 Record=NoMainPathDocument|SourceDocument=MasterSheet.SchDoc|FileName=Communication.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=MasterSheet.SchDoc|FileName=DAC.SchDoc|SheetNumber=1
