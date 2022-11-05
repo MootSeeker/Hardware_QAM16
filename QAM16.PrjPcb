@@ -66,40 +66,6 @@ GenerateClassCluster=0
 DocumentUniqueId=PAYHLBVN
 
 [Document2]
-DocumentPath=Supply.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=800
-AnnotationIndexControlEnabled=1
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=7
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=0
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=NZMGBCIX
-
-[Document3]
-DocumentPath=Microcontroller.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=200
-AnnotationIndexControlEnabled=1
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=0
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=OLCWDPWF
-
-[Document4]
 DocumentPath=Buttons.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=300
@@ -114,9 +80,9 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=EYVGKEUX
+DocumentUniqueId=VKZYIIAM
 
-[Document5]
+[Document3]
 DocumentPath=Connectors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=700
@@ -133,7 +99,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FZSBYAVL
 
-[Document6]
+[Document4]
 DocumentPath=Manufacturing.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -150,7 +116,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document7]
+[Document5]
 DocumentPath=Display.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=400
@@ -167,7 +133,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ICUEUBCA
 
-[Document8]
+[Document6]
 DocumentPath=Communication.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=600
@@ -184,7 +150,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AKRODNQS
 
-[Document9]
+[Document7]
 DocumentPath=Sensors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=500
@@ -201,8 +167,25 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XFBPIXKT
 
-[Document10]
+[Document8]
 DocumentPath=DAC.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=800
+AnnotationIndexControlEnabled=1
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=7
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=0
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QEHUPNOT
+
+[Document9]
+DocumentPath=ADC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=900
 AnnotationIndexControlEnabled=1
@@ -216,26 +199,9 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=QEHUPNOT
-
-[Document11]
-DocumentPath=ADC.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1000
-AnnotationIndexControlEnabled=1
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=9
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=0
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
 DocumentUniqueId=CNKYDEAU
 
-[Document12]
+[Document10]
 DocumentPath=QAM16_PCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -252,12 +218,46 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SADYREYU
 
+[Document11]
+DocumentPath=MCU.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=200
+AnnotationIndexControlEnabled=1
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=0
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OCWHCUWV
+
+[Document12]
+DocumentPath=Powersupply.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1000
+AnnotationIndexControlEnabled=1
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=9
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=0
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QRJBPRKR
+
 [ProjectVariant1]
 UniqueID=EE5751F6-655E-4F63-A3EE-5618910CC074
 Description=242273A201
 AllowFabrication=0
 ParameterCount=1
-VariationCount=26
+VariationCount=48
 Variation1=Designator=IC201|UniqueId=\LKMOCWQR\PBMXCPDF|Kind=1|AlternatePart= 
 Variation2=Designator=J702|UniqueId=\SQSFBWKM\YNYGLKUV|Kind=1|AlternatePart= 
 Variation3=Designator=MH100|UniqueId=\DCHGHIFI|Kind=1|AlternatePart= 
@@ -284,6 +284,28 @@ Variation23=Designator=B700|UniqueId=\ZLOEKSQS\MCIKQYIZ|Kind=1|AlternatePart=
 Variation24=Designator=BT700|UniqueId=\ZLOEKSQS\ZMJXKZXR|Kind=1|AlternatePart= 
 Variation25=Designator=J702|UniqueId=\ZLOEKSQS\YNYGLKUV|Kind=1|AlternatePart= 
 Variation26=Designator=R502|UniqueId=\BZHLGSEN\XPSNAHIX|Kind=1|AlternatePart= 
+Variation27=Designator=MH100|UniqueId=\ZNYSTCIQ|Kind=1|AlternatePart= 
+Variation28=Designator=MH101|UniqueId=\VVDNEXUW|Kind=1|AlternatePart= 
+Variation29=Designator=MH102|UniqueId=\GVGKTESU|Kind=1|AlternatePart= 
+Variation30=Designator=MH103|UniqueId=\MPDAMAPW|Kind=1|AlternatePart= 
+Variation31=Designator=R300|UniqueId=\PQNFHXTP\VTMLONEX|Kind=0|AlternatePart= 
+Variation32=Designator=J703|UniqueId=\AEEOMQPK\HLESCXXH|Kind=1|AlternatePart= 
+Variation33=Designator=J702|UniqueId=\AEEOMQPK\QNJLHQXT|Kind=1|AlternatePart= 
+Variation34=Designator=J701|UniqueId=\AEEOMQPK\JEXYTAYM|Kind=1|AlternatePart= 
+Variation35=Designator=J700|UniqueId=\AEEOMQPK\JEUYWHYR|Kind=1|AlternatePart= 
+Variation36=Designator=TP700|UniqueId=\AEEOMQPK\ZBRKNSIF|Kind=1|AlternatePart= 
+Variation37=Designator=TP703|UniqueId=\AEEOMQPK\HZAZEKIN|Kind=1|AlternatePart= 
+Variation38=Designator=TP706|UniqueId=\AEEOMQPK\JHFZGEDD|Kind=1|AlternatePart= 
+Variation39=Designator=TP709|UniqueId=\AEEOMQPK\FTHYUNSS|Kind=1|AlternatePart= 
+Variation40=Designator=TP710|UniqueId=\AEEOMQPK\ZBZLQLNK|Kind=1|AlternatePart= 
+Variation41=Designator=TP707|UniqueId=\AEEOMQPK\TUZPLTBV|Kind=1|AlternatePart= 
+Variation42=Designator=TP704|UniqueId=\AEEOMQPK\CAMILONM|Kind=1|AlternatePart= 
+Variation43=Designator=TP701|UniqueId=\AEEOMQPK\QIDHGPZR|Kind=1|AlternatePart= 
+Variation44=Designator=TP702|UniqueId=\AEEOMQPK\LCCQPMTS|Kind=1|AlternatePart= 
+Variation45=Designator=TP705|UniqueId=\AEEOMQPK\FPEIBYWL|Kind=1|AlternatePart= 
+Variation46=Designator=TP708|UniqueId=\AEEOMQPK\NIEPAEDP|Kind=1|AlternatePart= 
+Variation47=Designator=TP711|UniqueId=\AEEOMQPK\LKCLSZZT|Kind=1|AlternatePart= 
+Variation48=Designator=J500|UniqueId=\MGKYFOYV\YDCFEXOO|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [Parameter2_1]
@@ -295,7 +317,7 @@ UniqueID=119DC804-BC81-4057-9DE9-50EF13D6C99D
 Description=012273A2A1
 AllowFabrication=0
 ParameterCount=1
-VariationCount=359
+VariationCount=542
 Variation1=Designator=MH100|UniqueId=\VDFCBWHS|Kind=1|AlternatePart= 
 Variation2=Designator=MH101|UniqueId=\WGCQYXLJ|Kind=1|AlternatePart= 
 Variation3=Designator=MH102|UniqueId=\NOVIKXDT|Kind=1|AlternatePart= 
@@ -655,6 +677,189 @@ Variation356=Designator=KEY303|UniqueId=\AQVOQZCP\CDRSZHBV|Kind=1|AlternatePart=
 Variation357=Designator=C303|UniqueId=\AQVOQZCP\MIDPKTZJ|Kind=1|AlternatePart= 
 Variation358=Designator=R307|UniqueId=\AQVOQZCP\YVAACXOE|Kind=1|AlternatePart= 
 Variation359=Designator=R303|UniqueId=\AQVOQZCP\FWLCHYKQ|Kind=1|AlternatePart= 
+Variation360=Designator=IC1000|UniqueId=\ERGRPEPC\HWNCJFDN|Kind=1|AlternatePart= 
+Variation361=Designator=C1001|UniqueId=\ERGRPEPC\OQAEOLAY|Kind=1|AlternatePart= 
+Variation362=Designator=C1000|UniqueId=\ERGRPEPC\HANPIDVG|Kind=1|AlternatePart= 
+Variation363=Designator=C1002|UniqueId=\ERGRPEPC\VHHWMAMQ|Kind=1|AlternatePart= 
+Variation364=Designator=C1003|UniqueId=\ERGRPEPC\DPHLWWQP|Kind=1|AlternatePart= 
+Variation365=Designator=R1000|UniqueId=\ERGRPEPC\UFPXXIBJ|Kind=1|AlternatePart= 
+Variation366=Designator=R1001|UniqueId=\ERGRPEPC\YELERTSJ|Kind=1|AlternatePart= 
+Variation367=Designator=D1001|UniqueId=\ERGRPEPC\INITOZFZ|Kind=1|AlternatePart= 
+Variation368=Designator=D1000|UniqueId=\ERGRPEPC\DQNRHBSM|Kind=1|AlternatePart= 
+Variation369=Designator=IC1001|UniqueId=\ERGRPEPC\EPLCFWQA|Kind=1|AlternatePart= 
+Variation370=Designator=R1002|UniqueId=\ERGRPEPC\FLIOFZSY|Kind=1|AlternatePart= 
+Variation371=Designator=C1004|UniqueId=\ERGRPEPC\GKLDIMNS|Kind=1|AlternatePart= 
+Variation372=Designator=C1009|UniqueId=\ERGRPEPC\PLTHUYCV|Kind=1|AlternatePart= 
+Variation373=Designator=C1010|UniqueId=\ERGRPEPC\EPLYGSTA|Kind=1|AlternatePart= 
+Variation374=Designator=IC1002|UniqueId=\ERGRPEPC\VKVHOXPY|Kind=1|AlternatePart= 
+Variation375=Designator=C1011|UniqueId=\ERGRPEPC\RVIZGEBR|Kind=1|AlternatePart= 
+Variation376=Designator=R1003|UniqueId=\ERGRPEPC\FMIEDVAE|Kind=1|AlternatePart= 
+Variation377=Designator=C1012|UniqueId=\ERGRPEPC\RIQBWNGQ|Kind=1|AlternatePart= 
+Variation378=Designator=C1008|UniqueId=\ERGRPEPC\IGISQKGU|Kind=1|AlternatePart= 
+Variation379=Designator=L1000|UniqueId=\ERGRPEPC\VNLMGSGG|Kind=1|AlternatePart= 
+Variation380=Designator=C1005|UniqueId=\ERGRPEPC\GSSPEGYK|Kind=1|AlternatePart= 
+Variation381=Designator=C1006|UniqueId=\ERGRPEPC\SWOUGRFR|Kind=1|AlternatePart= 
+Variation382=Designator=C1007|UniqueId=\ERGRPEPC\KCNCAFJW|Kind=1|AlternatePart= 
+Variation383=Designator=L200|UniqueId=\FYWDLZDE\FIGNJQAC|Kind=1|AlternatePart= 
+Variation384=Designator=C208|UniqueId=\FYWDLZDE\VRELUAOF|Kind=1|AlternatePart= 
+Variation385=Designator=C209|UniqueId=\FYWDLZDE\VYTNMNDP|Kind=1|AlternatePart= 
+Variation386=Designator=C203|UniqueId=\FYWDLZDE\VWRUVJGD|Kind=1|AlternatePart= 
+Variation387=Designator=C204|UniqueId=\FYWDLZDE\UJBEXQWS|Kind=1|AlternatePart= 
+Variation388=Designator=C205|UniqueId=\FYWDLZDE\PSETPVGC|Kind=1|AlternatePart= 
+Variation389=Designator=C206|UniqueId=\FYWDLZDE\EHVIKHJQ|Kind=1|AlternatePart= 
+Variation390=Designator=C207|UniqueId=\FYWDLZDE\CRAZUBWE|Kind=1|AlternatePart= 
+Variation391=Designator=C202|UniqueId=\FYWDLZDE\ZKCCFLHK|Kind=1|AlternatePart= 
+Variation392=Designator=R201|UniqueId=\FYWDLZDE\PIKPIUSZ|Kind=1|AlternatePart= 
+Variation393=Designator=IC200|UniqueId=\FYWDLZDE\XNKYCOIB|Kind=1|AlternatePart= 
+Variation394=Designator=R204|UniqueId=\FYWDLZDE\OMGEWOZZ|Kind=1|AlternatePart= 
+Variation395=Designator=IC202|UniqueId=\FYWDLZDE\SRZPGRXW|Kind=1|AlternatePart= 
+Variation396=Designator=C214|UniqueId=\FYWDLZDE\LCPRKUBS|Kind=1|AlternatePart= 
+Variation397=Designator=C215|UniqueId=\FYWDLZDE\GPHYBODA|Kind=1|AlternatePart= 
+Variation398=Designator=C212|UniqueId=\FYWDLZDE\RLUBPZEM|Kind=1|AlternatePart= 
+Variation399=Designator=R205|UniqueId=\FYWDLZDE\NJVTYAPF|Kind=1|AlternatePart= 
+Variation400=Designator=IC203|UniqueId=\FYWDLZDE\HVXJFZYZ|Kind=1|AlternatePart= 
+Variation401=Designator=C213|UniqueId=\FYWDLZDE\SMNRHRSF|Kind=1|AlternatePart= 
+Variation402=Designator=IC201|UniqueId=\FYWDLZDE\YWIQUHUK|Kind=1|AlternatePart= 
+Variation403=Designator=C211|UniqueId=\FYWDLZDE\HJKPEAJP|Kind=1|AlternatePart= 
+Variation404=Designator=R203|UniqueId=\FYWDLZDE\YULPNRWC|Kind=1|AlternatePart= 
+Variation405=Designator=C210|UniqueId=\FYWDLZDE\ZLXLLCMS|Kind=1|AlternatePart= 
+Variation406=Designator=R202|UniqueId=\FYWDLZDE\FYATBNGU|Kind=1|AlternatePart= 
+Variation407=Designator=R206|UniqueId=\FYWDLZDE\GRSAFIUL|Kind=1|AlternatePart= 
+Variation408=Designator=R200|UniqueId=\FYWDLZDE\XNKNNUIY|Kind=1|AlternatePart= 
+Variation409=Designator=Q200|UniqueId=\FYWDLZDE\QAOPTMEF|Kind=1|AlternatePart= 
+Variation410=Designator=C200|UniqueId=\FYWDLZDE\EAGKUUQR|Kind=1|AlternatePart= 
+Variation411=Designator=C201|UniqueId=\FYWDLZDE\MGURBUSH|Kind=1|AlternatePart= 
+Variation412=Designator=R600|UniqueId=\BUQGXZON\NYPIGGTW|Kind=1|AlternatePart= 
+Variation413=Designator=C600|UniqueId=\BUQGXZON\FWTLPMLV|Kind=1|AlternatePart= 
+Variation414=Designator=R601|UniqueId=\BUQGXZON\UBXKEZSW|Kind=1|AlternatePart= 
+Variation415=Designator=IC600|UniqueId=\BUQGXZON\AFEZXQJK|Kind=1|AlternatePart= 
+Variation416=Designator=C601|UniqueId=\BUQGXZON\JMNXPCLU|Kind=1|AlternatePart= 
+Variation417=Designator=D600|UniqueId=\BUQGXZON\HHVNWNGV|Kind=1|AlternatePart= 
+Variation418=Designator=R602|UniqueId=\BUQGXZON\KRKHXJYG|Kind=1|AlternatePart= 
+Variation419=Designator=R603|UniqueId=\BUQGXZON\BKCTLUHI|Kind=1|AlternatePart= 
+Variation420=Designator=R406|UniqueId=\TGIHRGRT\RHVBGGDM|Kind=1|AlternatePart= 
+Variation421=Designator=R405|UniqueId=\TGIHRGRT\HVQKCZOB|Kind=1|AlternatePart= 
+Variation422=Designator=R404|UniqueId=\TGIHRGRT\ZQMEASMJ|Kind=1|AlternatePart= 
+Variation423=Designator=R403|UniqueId=\TGIHRGRT\YVEHXWTM|Kind=1|AlternatePart= 
+Variation424=Designator=R401|UniqueId=\TGIHRGRT\TNKAOGEP|Kind=1|AlternatePart= 
+Variation425=Designator=R400|UniqueId=\TGIHRGRT\MVKBRTJF|Kind=1|AlternatePart= 
+Variation426=Designator=LCD400|UniqueId=\TGIHRGRT\WHGWCDHD|Kind=1|AlternatePart= 
+Variation427=Designator=R402|UniqueId=\TGIHRGRT\PBMGIISL|Kind=1|AlternatePart= 
+Variation428=Designator=T400|UniqueId=\TGIHRGRT\DOGSEYYR|Kind=1|AlternatePart= 
+Variation429=Designator=R407|UniqueId=\TGIHRGRT\MTPNCOSD|Kind=1|AlternatePart= 
+Variation430=Designator=C400|UniqueId=\TGIHRGRT\YLSIXQMI|Kind=1|AlternatePart= 
+Variation431=Designator=R701|UniqueId=\AEEOMQPK\UFBKQCKA|Kind=1|AlternatePart= 
+Variation432=Designator=R702|UniqueId=\AEEOMQPK\CYQNGQUS|Kind=1|AlternatePart= 
+Variation433=Designator=D702|UniqueId=\AEEOMQPK\AWMPSQVJ|Kind=1|AlternatePart= 
+Variation434=Designator=C700|UniqueId=\AEEOMQPK\WQKRJWDE|Kind=1|AlternatePart= 
+Variation435=Designator=R700|UniqueId=\AEEOMQPK\NJVFHMMN|Kind=1|AlternatePart= 
+Variation436=Designator=C701|UniqueId=\AEEOMQPK\ZIUSLZNK|Kind=1|AlternatePart= 
+Variation437=Designator=C702|UniqueId=\AEEOMQPK\VOOGAICF|Kind=1|AlternatePart= 
+Variation438=Designator=D701|UniqueId=\AEEOMQPK\QMTZJLKO|Kind=1|AlternatePart= 
+Variation439=Designator=D700|UniqueId=\AEEOMQPK\QOPGPVXH|Kind=1|AlternatePart= 
+Variation440=Designator=FE705|UniqueId=\AEEOMQPK\LKMJMRDY|Kind=1|AlternatePart= 
+Variation441=Designator=FE704|UniqueId=\AEEOMQPK\NZXQNLTK|Kind=1|AlternatePart= 
+Variation442=Designator=FE703|UniqueId=\AEEOMQPK\LMJAKSZZ|Kind=1|AlternatePart= 
+Variation443=Designator=FE702|UniqueId=\AEEOMQPK\LHGJICAD|Kind=1|AlternatePart= 
+Variation444=Designator=FE700|UniqueId=\AEEOMQPK\KPRGERIB|Kind=1|AlternatePart= 
+Variation445=Designator=FE701|UniqueId=\AEEOMQPK\VOKFIFJZ|Kind=1|AlternatePart= 
+Variation446=Designator=R703|UniqueId=\AEEOMQPK\LDPCMNSK|Kind=1|AlternatePart= 
+Variation447=Designator=R704|UniqueId=\AEEOMQPK\FRARAYDU|Kind=1|AlternatePart= 
+Variation448=Designator=J701|UniqueId=\AEEOMQPK\JEXYTAYM|Kind=0|AlternatePart= 
+Variation449=Designator=FE709|UniqueId=\AEEOMQPK\CSJHTFZD|Kind=1|AlternatePart= 
+Variation450=Designator=FE711|UniqueId=\AEEOMQPK\IJWUERAZ|Kind=1|AlternatePart= 
+Variation451=Designator=FE713|UniqueId=\AEEOMQPK\KDSWSNAS|Kind=1|AlternatePart= 
+Variation452=Designator=FE716|UniqueId=\AEEOMQPK\LOYXTWPU|Kind=1|AlternatePart= 
+Variation453=Designator=FE717|UniqueId=\AEEOMQPK\TAPGGAUY|Kind=1|AlternatePart= 
+Variation454=Designator=FE715|UniqueId=\AEEOMQPK\IQGACFTS|Kind=1|AlternatePart= 
+Variation455=Designator=R705|UniqueId=\AEEOMQPK\REPEPJNU|Kind=1|AlternatePart= 
+Variation456=Designator=R706|UniqueId=\AEEOMQPK\BATYWIZK|Kind=1|AlternatePart= 
+Variation457=Designator=R707|UniqueId=\AEEOMQPK\QDTMAXXR|Kind=1|AlternatePart= 
+Variation458=Designator=R708|UniqueId=\AEEOMQPK\LRAIYNQV|Kind=1|AlternatePart= 
+Variation459=Designator=D705|UniqueId=\AEEOMQPK\YNVBRHGS|Kind=1|AlternatePart= 
+Variation460=Designator=D704|UniqueId=\AEEOMQPK\CQSGXIPH|Kind=1|AlternatePart= 
+Variation461=Designator=FE706|UniqueId=\AEEOMQPK\QQLQQFEI|Kind=1|AlternatePart= 
+Variation462=Designator=FE707|UniqueId=\AEEOMQPK\IVIBKFCY|Kind=1|AlternatePart= 
+Variation463=Designator=FE708|UniqueId=\AEEOMQPK\QHUAAUEG|Kind=1|AlternatePart= 
+Variation464=Designator=FE710|UniqueId=\AEEOMQPK\YTUKIKMC|Kind=1|AlternatePart= 
+Variation465=Designator=FE712|UniqueId=\AEEOMQPK\OEGQUATE|Kind=1|AlternatePart= 
+Variation466=Designator=FE714|UniqueId=\AEEOMQPK\KKAYLTKQ|Kind=1|AlternatePart= 
+Variation467=Designator=D703|UniqueId=\AEEOMQPK\KFICINXK|Kind=1|AlternatePart= 
+Variation468=Designator=D706|UniqueId=\AEEOMQPK\EFGMUZDU|Kind=1|AlternatePart= 
+Variation469=Designator=D707|UniqueId=\AEEOMQPK\CDTNQVBK|Kind=1|AlternatePart= 
+Variation470=Designator=R715|UniqueId=\AEEOMQPK\ZZNANAXL|Kind=1|AlternatePart= 
+Variation471=Designator=R713|UniqueId=\AEEOMQPK\DMIXJXWN|Kind=1|AlternatePart= 
+Variation472=Designator=R711|UniqueId=\AEEOMQPK\DHDCITFJ|Kind=1|AlternatePart= 
+Variation473=Designator=R710|UniqueId=\AEEOMQPK\EQDIVLGP|Kind=1|AlternatePart= 
+Variation474=Designator=R709|UniqueId=\AEEOMQPK\EMEMGRQV|Kind=1|AlternatePart= 
+Variation475=Designator=J704|UniqueId=\AEEOMQPK\YNYGLKUV|Kind=1|AlternatePart= 
+Variation476=Designator=D710|UniqueId=\AEEOMQPK\WMZMTOEE|Kind=1|AlternatePart= 
+Variation477=Designator=D709|UniqueId=\AEEOMQPK\LJNIMADX|Kind=1|AlternatePart= 
+Variation478=Designator=D708|UniqueId=\AEEOMQPK\KOJNHWYK|Kind=1|AlternatePart= 
+Variation479=Designator=R712|UniqueId=\AEEOMQPK\YBAOGLMH|Kind=1|AlternatePart= 
+Variation480=Designator=R714|UniqueId=\AEEOMQPK\BWJXLQRT|Kind=1|AlternatePart= 
+Variation481=Designator=R716|UniqueId=\AEEOMQPK\IWBSTRUE|Kind=1|AlternatePart= 
+Variation482=Designator=R719|UniqueId=\AEEOMQPK\YEWNZSRY|Kind=1|AlternatePart= 
+Variation483=Designator=T702|UniqueId=\AEEOMQPK\GSPTTSPS|Kind=1|AlternatePart= 
+Variation484=Designator=R718|UniqueId=\AEEOMQPK\LKFFNUNF|Kind=1|AlternatePart= 
+Variation485=Designator=T701|UniqueId=\AEEOMQPK\UQZTAQZG|Kind=1|AlternatePart= 
+Variation486=Designator=R717|UniqueId=\AEEOMQPK\SNUSDQMX|Kind=1|AlternatePart= 
+Variation487=Designator=T700|UniqueId=\AEEOMQPK\REYCDALL|Kind=1|AlternatePart= 
+Variation488=Designator=R307|UniqueId=\PQNFHXTP\YVAACXOE|Kind=1|AlternatePart= 
+Variation489=Designator=R306|UniqueId=\PQNFHXTP\APOWHRZZ|Kind=1|AlternatePart= 
+Variation490=Designator=R305|UniqueId=\PQNFHXTP\SUHCLENW|Kind=1|AlternatePart= 
+Variation491=Designator=R304|UniqueId=\PQNFHXTP\FYJFLEMF|Kind=1|AlternatePart= 
+Variation492=Designator=R300|UniqueId=\PQNFHXTP\VTMLONEX|Kind=1|AlternatePart= 
+Variation493=Designator=R301|UniqueId=\PQNFHXTP\QJDGVMRB|Kind=1|AlternatePart= 
+Variation494=Designator=R302|UniqueId=\PQNFHXTP\FRWHNLFH|Kind=1|AlternatePart= 
+Variation495=Designator=R303|UniqueId=\PQNFHXTP\FWLCHYKQ|Kind=1|AlternatePart= 
+Variation496=Designator=C300|UniqueId=\PQNFHXTP\UZKIMGPM|Kind=1|AlternatePart= 
+Variation497=Designator=C301|UniqueId=\PQNFHXTP\HHLYTVRE|Kind=1|AlternatePart= 
+Variation498=Designator=C302|UniqueId=\PQNFHXTP\MEBMUIRT|Kind=1|AlternatePart= 
+Variation499=Designator=C303|UniqueId=\PQNFHXTP\MIDPKTZJ|Kind=1|AlternatePart= 
+Variation500=Designator=KEY300|UniqueId=\PQNFHXTP\BSGBESBC|Kind=1|AlternatePart= 
+Variation501=Designator=KEY301|UniqueId=\PQNFHXTP\UXXFQORX|Kind=1|AlternatePart= 
+Variation502=Designator=KEY302|UniqueId=\PQNFHXTP\CUTHPMAR|Kind=1|AlternatePart= 
+Variation503=Designator=KEY303|UniqueId=\PQNFHXTP\CDRSZHBV|Kind=1|AlternatePart= 
+Variation504=Designator=IC500|UniqueId=\MGKYFOYV\VKSKUNOC|Kind=1|AlternatePart= 
+Variation505=Designator=C501|UniqueId=\MGKYFOYV\JCIGETDP|Kind=1|AlternatePart= 
+Variation506=Designator=C500|UniqueId=\MGKYFOYV\VVVOOMEB|Kind=1|AlternatePart= 
+Variation507=Designator=IC800|UniqueId=\NNPCRAPA\HWFVCAXC|Kind=1|AlternatePart= 
+Variation508=Designator=R800|UniqueId=\NNPCRAPA\HADCHNRV|Kind=1|AlternatePart= 
+Variation509=Designator=R804|UniqueId=\NNPCRAPA\MOTXWXKV|Kind=1|AlternatePart= 
+Variation510=Designator=R801|UniqueId=\NNPCRAPA\GABNRTJE|Kind=1|AlternatePart= 
+Variation511=Designator=C801|UniqueId=\NNPCRAPA\GFAZYSLC|Kind=1|AlternatePart= 
+Variation512=Designator=C800|UniqueId=\NNPCRAPA\IPQQRUKY|Kind=1|AlternatePart= 
+Variation513=Designator=R802|UniqueId=\NNPCRAPA\LAIFBEEW|Kind=1|AlternatePart= 
+Variation514=Designator=C802|UniqueId=\NNPCRAPA\LFXSYOVR|Kind=1|AlternatePart= 
+Variation515=Designator=R803|UniqueId=\NNPCRAPA\MMMBVYOK|Kind=1|AlternatePart= 
+Variation516=Designator=R805|UniqueId=\NNPCRAPA\FMAIAUMS|Kind=1|AlternatePart= 
+Variation517=Designator=R806|UniqueId=\NNPCRAPA\OFLNSWVD|Kind=1|AlternatePart= 
+Variation518=Designator=FE800|UniqueId=\NNPCRAPA\EUMJCIPA|Kind=1|AlternatePart= 
+Variation519=Designator=C804|UniqueId=\NNPCRAPA\KQSPHMNP|Kind=1|AlternatePart= 
+Variation520=Designator=C805|UniqueId=\NNPCRAPA\SXBBASHO|Kind=1|AlternatePart= 
+Variation521=Designator=C806|UniqueId=\NNPCRAPA\MDFQBGJE|Kind=1|AlternatePart= 
+Variation522=Designator=C807|UniqueId=\NNPCRAPA\RFLBOJZE|Kind=1|AlternatePart= 
+Variation523=Designator=C803|UniqueId=\NNPCRAPA\GOCHVSDA|Kind=1|AlternatePart= 
+Variation524=Designator=C808|UniqueId=\NNPCRAPA\GEZFVIVU|Kind=1|AlternatePart= 
+Variation525=Designator=C809|UniqueId=\NNPCRAPA\DJKQVDAR|Kind=1|AlternatePart= 
+Variation526=Designator=FE801|UniqueId=\NNPCRAPA\SITSRDAR|Kind=1|AlternatePart= 
+Variation527=Designator=C811|UniqueId=\NNPCRAPA\TQYXSNLA|Kind=1|AlternatePart= 
+Variation528=Designator=C812|UniqueId=\NNPCRAPA\SFWWIRYV|Kind=1|AlternatePart= 
+Variation529=Designator=C813|UniqueId=\NNPCRAPA\FGQDZNXU|Kind=1|AlternatePart= 
+Variation530=Designator=C814|UniqueId=\NNPCRAPA\NIQVUOSW|Kind=1|AlternatePart= 
+Variation531=Designator=C810|UniqueId=\NNPCRAPA\FVBDXAGC|Kind=1|AlternatePart= 
+Variation532=Designator=IC901|UniqueId=\RAOWPOGI\YFSCDEOB|Kind=1|AlternatePart= 
+Variation533=Designator=IC900|UniqueId=\RAOWPOGI\UAACVPFH|Kind=1|AlternatePart= 
+Variation534=Designator=R900|UniqueId=\RAOWPOGI\CUPZAWER|Kind=1|AlternatePart= 
+Variation535=Designator=R901|UniqueId=\RAOWPOGI\SQJIJOUZ|Kind=1|AlternatePart= 
+Variation536=Designator=R902|UniqueId=\RAOWPOGI\MSUFAMTO|Kind=1|AlternatePart= 
+Variation537=Designator=R905|UniqueId=\RAOWPOGI\BHNXITOV|Kind=1|AlternatePart= 
+Variation538=Designator=R906|UniqueId=\RAOWPOGI\TNFWJMKT|Kind=1|AlternatePart= 
+Variation539=Designator=C900|UniqueId=\RAOWPOGI\VHWYUWNZ|Kind=1|AlternatePart= 
+Variation540=Designator=R904|UniqueId=\RAOWPOGI\YWIPUPIR|Kind=1|AlternatePart= 
+Variation541=Designator=R903|UniqueId=\RAOWPOGI\PJLEVNRB|Kind=1|AlternatePart= 
+Variation542=Designator=R907|UniqueId=\RAOWPOGI\KFJTPPAJ|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [Parameter3_1]
@@ -1699,8 +1904,144 @@ L17=EEEEEEEEEEEEEEEEE
 SortOrder=3
 SortLocation=0
 ReplaceSubparts=0
-MatchParameter1=Comment
+MatchParameter1=Availability
 MatchStrictly1=1
+MatchParameter2=Availability Date
+MatchStrictly2=1
+MatchParameter3=Changed
+MatchStrictly3=1
+MatchParameter4=Comment
+MatchStrictly4=1
+MatchParameter5=Component Kind
+MatchStrictly5=1
+MatchParameter6=Component Type
+MatchStrictly6=1
+MatchParameter7=ComponentLink1Description
+MatchStrictly7=1
+MatchParameter8=ComponentLink1URL
+MatchStrictly8=1
+MatchParameter9=ComponentLink2Description
+MatchStrictly9=1
+MatchParameter10=ComponentLink2URL
+MatchStrictly10=1
+MatchParameter11=ComponentLink3Description
+MatchStrictly11=1
+MatchParameter12=ComponentLink3URL
+MatchStrictly12=1
+MatchParameter13=ComponentLink4Description
+MatchStrictly13=1
+MatchParameter14=ComponentLink4URL
+MatchStrictly14=1
+MatchParameter15=CompType
+MatchStrictly15=1
+MatchParameter16=Created
+MatchStrictly16=1
+MatchParameter17=Database Table Name
+MatchStrictly17=1
+MatchParameter18=DatasheetDocument
+MatchStrictly18=1
+MatchParameter19=DatasheetVersion
+MatchStrictly19=1
+MatchParameter20=Description
+MatchStrictly20=1
+MatchParameter21=Designator
+MatchStrictly21=1
+MatchParameter22=DeviceName
+MatchStrictly22=1
+MatchParameter23=DeviceSetName
+MatchStrictly23=1
+MatchParameter24=Flammability
+MatchStrictly24=1
+MatchParameter25=Footprint
+MatchStrictly25=1
+MatchParameter26=GateName_1
+MatchStrictly26=1
+MatchParameter27=High-Reliability
+MatchStrictly27=1
+MatchParameter28=Ibis Model
+MatchStrictly28=1
+MatchParameter29=ID
+MatchStrictly29=1
+MatchParameter30=Library Name
+MatchStrictly30=1
+MatchParameter31=Library Reference
+MatchStrictly31=1
+MatchParameter32=LibraryName
+MatchStrictly32=1
+MatchParameter33=Manufacturer
+MatchStrictly33=1
+MatchParameter34=Manufacturer Part Number
+MatchStrictly34=1
+MatchParameter35=MF
+MatchStrictly35=1
+MatchParameter36=MP
+MatchStrictly36=1
+MatchParameter37=Note
+MatchStrictly37=1
+MatchParameter38=Operating Range
+MatchStrictly38=1
+MatchParameter39=Package
+MatchStrictly39=1
+MatchParameter40=PackageDescription
+MatchStrictly40=1
+MatchParameter41=PackageReference
+MatchStrictly41=1
+MatchParameter42=PackageTopMarking
+MatchStrictly42=1
+MatchParameter43=PackageVersion
+MatchStrictly43=1
+MatchParameter44=Part Status
+MatchStrictly44=1
+MatchParameter45=Part-Number
+MatchStrictly45=1
+MatchParameter46=PartNumber
+MatchStrictly46=1
+MatchParameter47=PCB3D
+MatchStrictly47=1
+MatchParameter48=Pin Count
+MatchStrictly48=1
+MatchParameter49=Pin Info
+MatchStrictly49=1
+MatchParameter50=PinCount
+MatchStrictly50=1
+MatchParameter51=PowerWise
+MatchStrictly51=1
+MatchParameter52=Price
+MatchStrictly52=1
+MatchParameter53=Price 100
+MatchStrictly53=1
+MatchParameter54=Price 1000
+MatchStrictly54=1
+MatchParameter55=Price Date
+MatchStrictly55=1
+MatchParameter56=RevisionNote
+MatchStrictly56=1
+MatchParameter57=RoHS
+MatchStrictly57=1
+MatchParameter58=RoHS compliant
+MatchStrictly58=1
+MatchParameter59=Signal Integrity
+MatchStrictly59=1
+MatchParameter60=Simulation
+MatchStrictly60=1
+MatchParameter61=Specification
+MatchStrictly61=1
+MatchParameter62=Status
+MatchStrictly62=1
+MatchParameter63=Supplier
+MatchStrictly63=1
+MatchParameter64=Supplier 1
+MatchStrictly64=1
+MatchParameter65=Supplier Part Number
+MatchStrictly65=1
+MatchParameter66=Supplier Part Number 1
+MatchStrictly66=1
+MatchParameter67=SymbolName_1
+MatchStrictly67=1
+MatchParameter68=Value
+MatchStrictly68=1
+MatchParameter69=Verification
+MatchStrictly69=1
 PhysicalNamingFormat=$Component_$RoomName
 GlobalIndexSortOrder=3
 GlobalIndexSortLocation=0
@@ -1719,12 +2060,6 @@ SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
-ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=Database_Libs1.DbLib/Widerstände / Varistoren
-ComponentDesignItemID0=Q0466
-ComponentSymbolReference0=Resistor
-ComponentUpdate0=1
-ComponentIsDeviceSheet0=0
 FullReplace=0
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1738,69 +2073,6 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
-ParameterName0=Availability Date
-ParameterUpdate0=1
-ParameterName1=Changed
-ParameterUpdate1=1
-ParameterName2=Comment
-ParameterUpdate2=1
-ParameterName3=Component Kind
-ParameterUpdate3=1
-ParameterName4=Component Type
-ParameterUpdate4=1
-ParameterName5=ComponentLink1Description
-ParameterUpdate5=1
-ParameterName6=ComponentLink1URL
-ParameterUpdate6=1
-ParameterName7=Description
-ParameterUpdate7=1
-ParameterName8=Flammability
-ParameterUpdate8=1
-ParameterName9=ID
-ParameterUpdate9=1
-ParameterName10=Library Reference
-ParameterUpdate10=1
-ParameterName11=Manufacturer
-ParameterUpdate11=1
-ParameterName12=Manufacturer Part Number
-ParameterUpdate12=1
-ParameterName13=Note
-ParameterUpdate13=1
-ParameterName14=Operating Range
-ParameterUpdate14=1
-ParameterName15=Part Status
-ParameterUpdate15=1
-ParameterName16=Part-Number
-ParameterUpdate16=1
-ParameterName17=Pin Count
-ParameterUpdate17=1
-ParameterName18=Price
-ParameterUpdate18=1
-ParameterName19=Price 100
-ParameterUpdate19=1
-ParameterName20=Price 1000
-ParameterUpdate20=1
-ParameterName21=Price Date
-ParameterUpdate21=1
-ParameterName22=RoHS
-ParameterUpdate22=1
-ParameterName23=RoHS compliant
-ParameterUpdate23=1
-ParameterName24=Specification
-ParameterUpdate24=1
-ParameterName25=Status
-ParameterUpdate25=1
-ParameterName26=Supplier
-ParameterUpdate26=1
-ParameterName27=Supplier Part Number
-ParameterUpdate27=1
-ParameterName28=Value
-ParameterUpdate28=1
-ModelTypeGroup0=PCBLIB
-ModelTypeUpdate0=1
-ModelType0=PCBLIB
-ModelName0=0402-1005
-ModelUpdate0=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
@@ -1809,262 +2081,418 @@ UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
 ComponentLibraryIdentifier0=Database_Libs1.DbLib/Dioden
-ComponentDesignItemID0=A0002
-ComponentSymbolReference0=Diode
+ComponentDesignItemID0=A0060
+ComponentSymbolReference0=LED Bi Color
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 ComponentLibIdentifierKind1=Library Name And Type
 ComponentLibraryIdentifier1=Database_Libs1.DbLib/Dioden
-ComponentDesignItemID1=A0053
-ComponentSymbolReference1=LED
+ComponentDesignItemID1=A0111
+ComponentSymbolReference1=STF202-22T1G
 ComponentUpdate1=1
 ComponentIsDeviceSheet1=0
 ComponentLibIdentifierKind2=Library Name And Type
 ComponentLibraryIdentifier2=Database_Libs1.DbLib/Dioden
-ComponentDesignItemID2=A0107
-ComponentSymbolReference2=Diode Schutz
+ComponentDesignItemID2=A0113
+ComponentSymbolReference2=PESD5V2S2UT
 ComponentUpdate2=1
 ComponentIsDeviceSheet2=0
 ComponentLibIdentifierKind3=Library Name And Type
 ComponentLibraryIdentifier3=Database_Libs1.DbLib/Dioden
-ComponentDesignItemID3=A0118
-ComponentSymbolReference3=Diode Schottky
+ComponentDesignItemID3=A0133
+ComponentSymbolReference3=WS2812B
 ComponentUpdate3=1
 ComponentIsDeviceSheet3=0
 ComponentLibIdentifierKind4=Library Name And Type
 ComponentLibraryIdentifier4=Database_Libs1.DbLib/Dioden
-ComponentDesignItemID4=A0138
-ComponentSymbolReference4=Bridge Rectifier
+ComponentDesignItemID4=A0146
+ComponentSymbolReference4=LED
 ComponentUpdate4=1
 ComponentIsDeviceSheet4=0
 ComponentLibIdentifierKind5=Library Name And Type
-ComponentLibraryIdentifier5=Database_Libs1.DbLib/Diverses
-ComponentDesignItemID5=C0025
-ComponentSymbolReference5=MH_RND
+ComponentLibraryIdentifier5=Database_Libs1.DbLib/Displays
+ComponentDesignItemID5=B0007
+ComponentSymbolReference5=ER-TFT013-2
 ComponentUpdate5=1
 ComponentIsDeviceSheet5=0
 ComponentLibIdentifierKind6=Library Name And Type
 ComponentLibraryIdentifier6=Database_Libs1.DbLib/Diverses
-ComponentDesignItemID6=C0039
-ComponentSymbolReference6=FIDUCIAL
+ComponentDesignItemID6=C0020
+ComponentSymbolReference6=Testpoint
 ComponentUpdate6=1
 ComponentIsDeviceSheet6=0
 ComponentLibIdentifierKind7=Library Name And Type
 ComponentLibraryIdentifier7=Database_Libs1.DbLib/Diverses
-ComponentDesignItemID7=C0089
-ComponentSymbolReference7=CR2032
+ComponentDesignItemID7=C0025
+ComponentSymbolReference7=MH_RND
 ComponentUpdate7=1
 ComponentIsDeviceSheet7=0
 ComponentLibIdentifierKind8=Library Name And Type
-ComponentLibraryIdentifier8=Database_Libs1.DbLib/ICs
-ComponentDesignItemID8=E0146
-ComponentSymbolReference8=MC3419
+ComponentLibraryIdentifier8=Database_Libs1.DbLib/Diverses
+ComponentDesignItemID8=C0039
+ComponentSymbolReference8=FIDUCIAL
 ComponentUpdate8=1
 ComponentIsDeviceSheet8=0
 ComponentLibIdentifierKind9=Library Name And Type
-ComponentLibraryIdentifier9=Database_Libs1.DbLib/Kondensatoren / Elkos
-ComponentDesignItemID9=F0025
-ComponentSymbolReference9=Kondensator
+ComponentLibraryIdentifier9=Database_Libs1.DbLib/ICs
+ComponentDesignItemID9=E0093
+ComponentSymbolReference9=TXB0104
 ComponentUpdate9=1
 ComponentIsDeviceSheet9=0
 ComponentLibIdentifierKind10=Library Name And Type
-ComponentLibraryIdentifier10=Database_Libs1.DbLib/Kondensatoren / Elkos
-ComponentDesignItemID10=F0061
-ComponentSymbolReference10=Kondensator
+ComponentLibraryIdentifier10=Database_Libs1.DbLib/ICs
+ComponentDesignItemID10=E0101
+ComponentSymbolReference10=LT1004IPWR
 ComponentUpdate10=1
 ComponentIsDeviceSheet10=0
 ComponentLibIdentifierKind11=Library Name And Type
-ComponentLibraryIdentifier11=Database_Libs1.DbLib/Kondensatoren / Elkos
-ComponentDesignItemID11=F0093
-ComponentSymbolReference11=Kondensator
+ComponentLibraryIdentifier11=Database_Libs1.DbLib/ICs
+ComponentDesignItemID11=E0109
+ComponentSymbolReference11=BMEx80
 ComponentUpdate11=1
 ComponentIsDeviceSheet11=0
 ComponentLibIdentifierKind12=Library Name And Type
-ComponentLibraryIdentifier12=Database_Libs1.DbLib/Kondensatoren / Elkos
-ComponentDesignItemID12=F0123
-ComponentSymbolReference12=Kondensator
+ComponentLibraryIdentifier12=Database_Libs1.DbLib/ICs
+ComponentDesignItemID12=E0130
+ComponentSymbolReference12=CP2102N-A02
 ComponentUpdate12=1
 ComponentIsDeviceSheet12=0
 ComponentLibIdentifierKind13=Library Name And Type
 ComponentLibraryIdentifier13=Database_Libs1.DbLib/Kondensatoren / Elkos
-ComponentDesignItemID13=F0161
+ComponentDesignItemID13=F0002
 ComponentSymbolReference13=Kondensator
 ComponentUpdate13=1
 ComponentIsDeviceSheet13=0
 ComponentLibIdentifierKind14=Library Name And Type
 ComponentLibraryIdentifier14=Database_Libs1.DbLib/Kondensatoren / Elkos
-ComponentDesignItemID14=F0168
+ComponentDesignItemID14=F0032
 ComponentSymbolReference14=Kondensator
 ComponentUpdate14=1
 ComponentIsDeviceSheet14=0
 ComponentLibIdentifierKind15=Library Name And Type
 ComponentLibraryIdentifier15=Database_Libs1.DbLib/Kondensatoren / Elkos
-ComponentDesignItemID15=F0180
+ComponentDesignItemID15=F0035
 ComponentSymbolReference15=Kondensator
 ComponentUpdate15=1
 ComponentIsDeviceSheet15=0
 ComponentLibIdentifierKind16=Library Name And Type
 ComponentLibraryIdentifier16=Database_Libs1.DbLib/Kondensatoren / Elkos
-ComponentDesignItemID16=F0183
+ComponentDesignItemID16=F0038
 ComponentSymbolReference16=Kondensator
 ComponentUpdate16=1
 ComponentIsDeviceSheet16=0
 ComponentLibIdentifierKind17=Library Name And Type
 ComponentLibraryIdentifier17=Database_Libs1.DbLib/Kondensatoren / Elkos
-ComponentDesignItemID17=F0193
+ComponentDesignItemID17=F0058
 ComponentSymbolReference17=Kondensator
 ComponentUpdate17=1
 ComponentIsDeviceSheet17=0
 ComponentLibIdentifierKind18=Library Name And Type
-ComponentLibraryIdentifier18=Database_Libs1.DbLib/Microcontroller
-ComponentDesignItemID18=H0037
-ComponentSymbolReference18=STM32L051K8U7
+ComponentLibraryIdentifier18=Database_Libs1.DbLib/Kondensatoren / Elkos
+ComponentDesignItemID18=F0091
+ComponentSymbolReference18=Kondensator
 ComponentUpdate18=1
 ComponentIsDeviceSheet18=0
 ComponentLibIdentifierKind19=Library Name And Type
-ComponentLibraryIdentifier19=Database_Libs1.DbLib/Microcontroller
-ComponentDesignItemID19=H0038
-ComponentSymbolReference19=STM32L051K8T7
+ComponentLibraryIdentifier19=Database_Libs1.DbLib/Kondensatoren / Elkos
+ComponentDesignItemID19=F0092
+ComponentSymbolReference19=Kondensator
 ComponentUpdate19=1
 ComponentIsDeviceSheet19=0
 ComponentLibIdentifierKind20=Library Name And Type
-ComponentLibraryIdentifier20=Database_Libs1.DbLib/Quarze / Resonatoren
-ComponentDesignItemID20=J0014
-ComponentSymbolReference20=Quarz
+ComponentLibraryIdentifier20=Database_Libs1.DbLib/Kondensatoren / Elkos
+ComponentDesignItemID20=F0096
+ComponentSymbolReference20=Kondensator
 ComponentUpdate20=1
 ComponentIsDeviceSheet20=0
 ComponentLibIdentifierKind21=Library Name And Type
-ComponentLibraryIdentifier21=Database_Libs1.DbLib/Speicher
-ComponentDesignItemID21=L0030
-ComponentSymbolReference21=Speicher SPI
+ComponentLibraryIdentifier21=Database_Libs1.DbLib/Kondensatoren / Elkos
+ComponentDesignItemID21=F0101
+ComponentSymbolReference21=Kondensator
 ComponentUpdate21=1
 ComponentIsDeviceSheet21=0
 ComponentLibIdentifierKind22=Library Name And Type
-ComponentLibraryIdentifier22=Database_Libs1.DbLib/Spulen / Ferrite
-ComponentDesignItemID22=M0007
-ComponentSymbolReference22=Spule
+ComponentLibraryIdentifier22=Database_Libs1.DbLib/Kondensatoren / Elkos
+ComponentDesignItemID22=F0123
+ComponentSymbolReference22=Kondensator
 ComponentUpdate22=1
 ComponentIsDeviceSheet22=0
 ComponentLibIdentifierKind23=Library Name And Type
-ComponentLibraryIdentifier23=Database_Libs1.DbLib/Spulen / Ferrite
-ComponentDesignItemID23=M0076
-ComponentSymbolReference23=Spule
+ComponentLibraryIdentifier23=Database_Libs1.DbLib/Kondensatoren / Elkos
+ComponentDesignItemID23=F0127
+ComponentSymbolReference23=Kondensator
 ComponentUpdate23=1
 ComponentIsDeviceSheet23=0
 ComponentLibIdentifierKind24=Library Name And Type
-ComponentLibraryIdentifier24=Database_Libs1.DbLib/Stecker / Buchsen / Leisten
-ComponentDesignItemID24=N0123
-ComponentSymbolReference24=MICRO-02
+ComponentLibraryIdentifier24=Database_Libs1.DbLib/Kondensatoren / Elkos
+ComponentDesignItemID24=F0161
+ComponentSymbolReference24=Kondensator
 ComponentUpdate24=1
 ComponentIsDeviceSheet24=0
 ComponentLibIdentifierKind25=Library Name And Type
-ComponentLibraryIdentifier25=Database_Libs1.DbLib/Stecker / Buchsen / Leisten
-ComponentDesignItemID25=N0177
-ComponentSymbolReference25=Stiftleiste_Stlink_V3
+ComponentLibraryIdentifier25=Database_Libs1.DbLib/Kondensatoren / Elkos
+ComponentDesignItemID25=F0180
+ComponentSymbolReference25=Kondensator
 ComponentUpdate25=1
 ComponentIsDeviceSheet25=0
 ComponentLibIdentifierKind26=Library Name And Type
-ComponentLibraryIdentifier26=Database_Libs1.DbLib/Stecker / Buchsen / Leisten
-ComponentDesignItemID26=N0178
-ComponentSymbolReference26=uSD Card Slot
+ComponentLibraryIdentifier26=Database_Libs1.DbLib/Kondensatoren / Elkos
+ComponentDesignItemID26=F0193
+ComponentSymbolReference26=Kondensator
 ComponentUpdate26=1
 ComponentIsDeviceSheet26=0
 ComponentLibIdentifierKind27=Library Name And Type
-ComponentLibraryIdentifier27=Database_Libs1.DbLib/Stecker / Buchsen / Leisten
-ComponentDesignItemID27=N0179
-ComponentSymbolReference27=ZIF24 SMD Kontakte
+ComponentLibraryIdentifier27=Database_Libs1.DbLib/Kondensatoren / Elkos
+ComponentDesignItemID27=F0216
+ComponentSymbolReference27=Kondensator
 ComponentUpdate27=1
 ComponentIsDeviceSheet27=0
 ComponentLibIdentifierKind28=Library Name And Type
-ComponentLibraryIdentifier28=Database_Libs1.DbLib/Transistoren
-ComponentDesignItemID28=P0025
-ComponentSymbolReference28=FDV305N
+ComponentLibraryIdentifier28=Database_Libs1.DbLib/Microcontroller
+ComponentDesignItemID28=H0056
+ComponentSymbolReference28=STM32L452CEU6
 ComponentUpdate28=1
 ComponentIsDeviceSheet28=0
 ComponentLibIdentifierKind29=Library Name And Type
-ComponentLibraryIdentifier29=Database_Libs1.DbLib/Widerstände / Varistoren
-ComponentDesignItemID29=Q0011
-ComponentSymbolReference29=Resistor
+ComponentLibraryIdentifier29=Database_Libs1.DbLib/Operationsverstärker
+ComponentDesignItemID29=I0016
+ComponentSymbolReference29=LMC6484
 ComponentUpdate29=1
 ComponentIsDeviceSheet29=0
 ComponentLibIdentifierKind30=Library Name And Type
-ComponentLibraryIdentifier30=Database_Libs1.DbLib/Widerstände / Varistoren
-ComponentDesignItemID30=Q0014
-ComponentSymbolReference30=Resistor
+ComponentLibraryIdentifier30=Database_Libs1.DbLib/Quarze / Resonatoren
+ComponentDesignItemID30=J0008
+ComponentSymbolReference30=Quarz GND
 ComponentUpdate30=1
 ComponentIsDeviceSheet30=0
 ComponentLibIdentifierKind31=Library Name And Type
-ComponentLibraryIdentifier31=Database_Libs1.DbLib/Widerstände / Varistoren
-ComponentDesignItemID31=Q0017
-ComponentSymbolReference31=Resistor
+ComponentLibraryIdentifier31=Database_Libs1.DbLib/Spannungsregler
+ComponentDesignItemID31=K0046
+ComponentSymbolReference31=LM2776DBVT
 ComponentUpdate31=1
 ComponentIsDeviceSheet31=0
 ComponentLibIdentifierKind32=Library Name And Type
-ComponentLibraryIdentifier32=Database_Libs1.DbLib/Widerstände / Varistoren
-ComponentDesignItemID32=Q0023
-ComponentSymbolReference32=Resistor
+ComponentLibraryIdentifier32=Database_Libs1.DbLib/Spannungsregler
+ComponentDesignItemID32=K0059
+ComponentSymbolReference32=TLV1117LV
 ComponentUpdate32=1
 ComponentIsDeviceSheet32=0
 ComponentLibIdentifierKind33=Library Name And Type
-ComponentLibraryIdentifier33=Database_Libs1.DbLib/Widerstände / Varistoren
-ComponentDesignItemID33=Q0058
-ComponentSymbolReference33=Resistor
+ComponentLibraryIdentifier33=Database_Libs1.DbLib/Spannungsregler
+ComponentDesignItemID33=K0067
+ComponentSymbolReference33=ADP2503ACPZ-R7
 ComponentUpdate33=1
 ComponentIsDeviceSheet33=0
 ComponentLibIdentifierKind34=Library Name And Type
-ComponentLibraryIdentifier34=Database_Libs1.DbLib/Widerstände / Varistoren
-ComponentDesignItemID34=Q0091
-ComponentSymbolReference34=Resistor
+ComponentLibraryIdentifier34=Database_Libs1.DbLib/Speicher
+ComponentDesignItemID34=L0028
+ComponentSymbolReference34=Speicher Flash SPI/Quad
 ComponentUpdate34=1
 ComponentIsDeviceSheet34=0
 ComponentLibIdentifierKind35=Library Name And Type
-ComponentLibraryIdentifier35=Database_Libs1.DbLib/Widerstände / Varistoren
-ComponentDesignItemID35=Q0152
-ComponentSymbolReference35=Resistor
+ComponentLibraryIdentifier35=Database_Libs1.DbLib/Spulen / Ferrite
+ComponentDesignItemID35=M0007
+ComponentSymbolReference35=Spule
 ComponentUpdate35=1
 ComponentIsDeviceSheet35=0
 ComponentLibIdentifierKind36=Library Name And Type
-ComponentLibraryIdentifier36=Database_Libs1.DbLib/Widerstände / Varistoren
-ComponentDesignItemID36=Q0202
-ComponentSymbolReference36=Resistor
+ComponentLibraryIdentifier36=Database_Libs1.DbLib/Spulen / Ferrite
+ComponentDesignItemID36=M0044
+ComponentSymbolReference36=Ferrit
 ComponentUpdate36=1
 ComponentIsDeviceSheet36=0
 ComponentLibIdentifierKind37=Library Name And Type
-ComponentLibraryIdentifier37=Database_Libs1.DbLib/Widerstände / Varistoren
-ComponentDesignItemID37=Q0267
-ComponentSymbolReference37=Resistor
+ComponentLibraryIdentifier37=Database_Libs1.DbLib/Spulen / Ferrite
+ComponentDesignItemID37=M0071
+ComponentSymbolReference37=Ferrit
 ComponentUpdate37=1
 ComponentIsDeviceSheet37=0
 ComponentLibIdentifierKind38=Library Name And Type
-ComponentLibraryIdentifier38=Database_Libs1.DbLib/Widerstände / Varistoren
-ComponentDesignItemID38=Q0280
-ComponentSymbolReference38=Resistor 4x
+ComponentLibraryIdentifier38=Database_Libs1.DbLib/Spulen / Ferrite
+ComponentDesignItemID38=M0085
+ComponentSymbolReference38=Spule
 ComponentUpdate38=1
 ComponentIsDeviceSheet38=0
 ComponentLibIdentifierKind39=Library Name And Type
-ComponentLibraryIdentifier39=Database_Libs1.DbLib/Widerstände / Varistoren
-ComponentDesignItemID39=Q0329
-ComponentSymbolReference39=Resistor
+ComponentLibraryIdentifier39=Database_Libs1.DbLib/Stecker / Buchsen / Leisten
+ComponentDesignItemID39=N0117
+ComponentSymbolReference39=Stiftleiste_6pol
 ComponentUpdate39=1
 ComponentIsDeviceSheet39=0
 ComponentLibIdentifierKind40=Library Name And Type
-ComponentLibraryIdentifier40=Database_Libs1.DbLib
-ComponentDesignItemID40=Drucktaste
-ComponentSymbolReference40=Drucktaste
+ComponentLibraryIdentifier40=Database_Libs1.DbLib/Stecker / Buchsen / Leisten
+ComponentDesignItemID40=N0175
+ComponentSymbolReference40=USB 2.0 Type C
 ComponentUpdate40=1
 ComponentIsDeviceSheet40=0
-ComponentLibIdentifierKind41=Library Name Only
-ComponentLibraryIdentifier41=Altium Content Vault
-ComponentDesignItemID41=CMP-0132-00093-1
-ComponentSymbolReference41=PM-CHP-MCP1256-IL10
+ComponentLibIdentifierKind41=Library Name And Type
+ComponentLibraryIdentifier41=Database_Libs1.DbLib/Stecker / Buchsen / Leisten
+ComponentDesignItemID41=N0177
+ComponentSymbolReference41=Stiftleiste_Stlink_V3
 ComponentUpdate41=1
 ComponentIsDeviceSheet41=0
-ComponentLibIdentifierKind42=Library Name Only
-ComponentLibraryIdentifier42=Altium Content Vault
-ComponentDesignItemID42=CMP-0186-00279-1
-ComponentSymbolReference42=PR-RTC-MCP79410-8
+ComponentLibIdentifierKind42=Library Name And Type
+ComponentLibraryIdentifier42=Database_Libs1.DbLib/Tasten
+ComponentDesignItemID42=O0004
+ComponentSymbolReference42=Drucktaste
 ComponentUpdate42=1
 ComponentIsDeviceSheet42=0
+ComponentLibIdentifierKind43=Library Name And Type
+ComponentLibraryIdentifier43=Database_Libs1.DbLib/Transistoren
+ComponentDesignItemID43=P0006
+ComponentSymbolReference43=FDV305N
+ComponentUpdate43=1
+ComponentIsDeviceSheet43=0
+ComponentLibIdentifierKind44=Library Name And Type
+ComponentLibraryIdentifier44=Database_Libs1.DbLib/Transistoren
+ComponentDesignItemID44=P0026
+ComponentSymbolReference44=FDV305N
+ComponentUpdate44=1
+ComponentIsDeviceSheet44=0
+ComponentLibIdentifierKind45=Library Name And Type
+ComponentLibraryIdentifier45=Database_Libs1.DbLib/Widerstände / Varistoren
+ComponentDesignItemID45=Q0011
+ComponentSymbolReference45=Resistor
+ComponentUpdate45=1
+ComponentIsDeviceSheet45=0
+ComponentLibIdentifierKind46=Library Name And Type
+ComponentLibraryIdentifier46=Database_Libs1.DbLib/Widerstände / Varistoren
+ComponentDesignItemID46=Q0017
+ComponentSymbolReference46=Resistor
+ComponentUpdate46=1
+ComponentIsDeviceSheet46=0
+ComponentLibIdentifierKind47=Library Name And Type
+ComponentLibraryIdentifier47=Database_Libs1.DbLib/Widerstände / Varistoren
+ComponentDesignItemID47=Q0018
+ComponentSymbolReference47=Resistor
+ComponentUpdate47=1
+ComponentIsDeviceSheet47=0
+ComponentLibIdentifierKind48=Library Name And Type
+ComponentLibraryIdentifier48=Database_Libs1.DbLib/Widerstände / Varistoren
+ComponentDesignItemID48=Q0024
+ComponentSymbolReference48=Resistor
+ComponentUpdate48=1
+ComponentIsDeviceSheet48=0
+ComponentLibIdentifierKind49=Library Name And Type
+ComponentLibraryIdentifier49=Database_Libs1.DbLib/Widerstände / Varistoren
+ComponentDesignItemID49=Q0052
+ComponentSymbolReference49=Resistor
+ComponentUpdate49=1
+ComponentIsDeviceSheet49=0
+ComponentLibIdentifierKind50=Library Name And Type
+ComponentLibraryIdentifier50=Database_Libs1.DbLib/Widerstände / Varistoren
+ComponentDesignItemID50=Q0073
+ComponentSymbolReference50=Resistor
+ComponentUpdate50=1
+ComponentIsDeviceSheet50=0
+ComponentLibIdentifierKind51=Library Name And Type
+ComponentLibraryIdentifier51=Database_Libs1.DbLib/Widerstände / Varistoren
+ComponentDesignItemID51=Q0091
+ComponentSymbolReference51=Resistor
+ComponentUpdate51=1
+ComponentIsDeviceSheet51=0
+ComponentLibIdentifierKind52=Library Name And Type
+ComponentLibraryIdentifier52=Database_Libs1.DbLib/Widerstände / Varistoren
+ComponentDesignItemID52=Q0166
+ComponentSymbolReference52=Resistor
+ComponentUpdate52=1
+ComponentIsDeviceSheet52=0
+ComponentLibIdentifierKind53=Library Name And Type
+ComponentLibraryIdentifier53=Database_Libs1.DbLib/Widerstände / Varistoren
+ComponentDesignItemID53=Q0174
+ComponentSymbolReference53=Resistor
+ComponentUpdate53=1
+ComponentIsDeviceSheet53=0
+ComponentLibIdentifierKind54=Library Name And Type
+ComponentLibraryIdentifier54=Database_Libs1.DbLib/Widerstände / Varistoren
+ComponentDesignItemID54=Q0180
+ComponentSymbolReference54=Resistor
+ComponentUpdate54=1
+ComponentIsDeviceSheet54=0
+ComponentLibIdentifierKind55=Library Name And Type
+ComponentLibraryIdentifier55=Database_Libs1.DbLib/Widerstände / Varistoren
+ComponentDesignItemID55=Q0244
+ComponentSymbolReference55=Resistor
+ComponentUpdate55=1
+ComponentIsDeviceSheet55=0
+ComponentLibIdentifierKind56=Library Name And Type
+ComponentLibraryIdentifier56=Database_Libs1.DbLib/Widerstände / Varistoren
+ComponentDesignItemID56=Q0270
+ComponentSymbolReference56=Resistor
+ComponentUpdate56=1
+ComponentIsDeviceSheet56=0
+ComponentLibIdentifierKind57=Library Name And Type
+ComponentLibraryIdentifier57=Database_Libs1.DbLib/Widerstände / Varistoren
+ComponentDesignItemID57=Q0303
+ComponentSymbolReference57=Resistor 4x
+ComponentUpdate57=1
+ComponentIsDeviceSheet57=0
+ComponentLibIdentifierKind58=Library Name And Type
+ComponentLibraryIdentifier58=Database_Libs1.DbLib/Widerstände / Varistoren
+ComponentDesignItemID58=Q0323
+ComponentSymbolReference58=Resistor
+ComponentUpdate58=1
+ComponentIsDeviceSheet58=0
+ComponentLibIdentifierKind59=Library Name And Type
+ComponentLibraryIdentifier59=Database_Libs1.DbLib/Widerstände / Varistoren
+ComponentDesignItemID59=Q0328
+ComponentSymbolReference59=Resistor
+ComponentUpdate59=1
+ComponentIsDeviceSheet59=0
+ComponentLibIdentifierKind60=Library Name And Type
+ComponentLibraryIdentifier60=Database_Libs1.DbLib/Widerstände / Varistoren
+ComponentDesignItemID60=Q0329
+ComponentSymbolReference60=Resistor
+ComponentUpdate60=1
+ComponentIsDeviceSheet60=0
+ComponentLibIdentifierKind61=Library Name And Type
+ComponentLibraryIdentifier61=Database_Libs1.DbLib/Widerstände / Varistoren
+ComponentDesignItemID61=Q0381
+ComponentSymbolReference61=Resistor
+ComponentUpdate61=1
+ComponentIsDeviceSheet61=0
+ComponentLibIdentifierKind62=Library Name And Type
+ComponentLibraryIdentifier62=Database_Libs1.DbLib/Widerstände / Varistoren
+ComponentDesignItemID62=Q0389
+ComponentSymbolReference62=Resistor
+ComponentUpdate62=1
+ComponentIsDeviceSheet62=0
+ComponentLibIdentifierKind63=Library Name And Type
+ComponentLibraryIdentifier63=Database_Libs1.DbLib/Widerstände / Varistoren
+ComponentDesignItemID63=Q0402
+ComponentSymbolReference63=Resistor
+ComponentUpdate63=1
+ComponentIsDeviceSheet63=0
+ComponentLibIdentifierKind64=Library Name And Type
+ComponentLibraryIdentifier64=Database_Libs1.DbLib/Widerstände / Varistoren
+ComponentDesignItemID64=Q0421
+ComponentSymbolReference64=Resistor
+ComponentUpdate64=1
+ComponentIsDeviceSheet64=0
+ComponentLibIdentifierKind65=Library Name And Type
+ComponentLibraryIdentifier65=Database_Libs1.DbLib/Widerstände / Varistoren
+ComponentDesignItemID65=Q0422
+ComponentSymbolReference65=Resistor
+ComponentUpdate65=1
+ComponentIsDeviceSheet65=0
+ComponentLibIdentifierKind66=Library Name And Type
+ComponentLibraryIdentifier66=Database_Libs1.DbLib/Widerstände / Varistoren
+ComponentDesignItemID66=Q0437
+ComponentSymbolReference66=Resistor
+ComponentUpdate66=1
+ComponentIsDeviceSheet66=0
+ComponentLibIdentifierKind67=Library Name And Type
+ComponentLibraryIdentifier67=Database_Libs1.DbLib/Widerstände / Varistoren
+ComponentDesignItemID67=Q0459
+ComponentSymbolReference67=Resistor
+ComponentUpdate67=1
+ComponentIsDeviceSheet67=0
+ComponentLibIdentifierKind68=Library Name Only
+ComponentLibraryIdentifier68=Altium Content Vault
+ComponentDesignItemID68=CMP-0066-00147-3
+ComponentSymbolReference68=SEN-TEMP-LM26LVCISD-7
+ComponentUpdate68=1
+ComponentIsDeviceSheet68=0
 
 [ToDoManager]
 ProjectToDo1=Name=Für dasProject:~1Gehäuse Masse festlegen~1|Priority=3|State=1|Owner=Joe|Category=Mechanical|UID=WOXGDKTN
