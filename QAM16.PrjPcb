@@ -496,69 +496,189 @@ ParamVariationCount=0
 Name=VariantDescription
 Value=THT - Bestückung
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for\Design Rule Check - QAM16_PCB.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for\NC Drill\QAM16_PCB-RoundHoles-NonPlated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for\NC Drill\QAM16_PCB-RoundHoles-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for\NC Drill\QAM16_PCB-SlotHoles-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for\NC Drill\QAM16_PCB.DRL
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for\NC Drill\QAM16_PCB.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for\Gerber\QAM16_PCB.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for\Gerber\QAM16_PCB.G1
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for\Gerber\QAM16_PCB.G2
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for\Gerber\QAM16_PCB.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for\Gerber\QAM16_PCB.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for\Gerber\QAM16_PCB.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for\Gerber\QAM16_PCB.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for\Gerber\QAM16_PCB.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for\Gerber\QAM16_PCB.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for\Gerber\QAM16_PCB.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for\Gerber\QAM16_PCB.GM5
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for\Gerber\QAM16_PCB.GM7
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for\Gerber\QAM16_PCB.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for\Gerber\QAM16_PCB.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for\Gerber\QAM16_PCB.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for\Gerber\QAM16_PCB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for\NC Drill\QAM16_PCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for\Gerber\QAM16_PCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for\Gerber\QAM16_PCB.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for\3D_Model\ExportSTEP\QAM16_PCB.x_t
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for\SMD_THT Assy BOM_PNP\Bill of Materials\SMDa.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for\SMD_THT Assy BOM_PNP\Pick and Place\SMDa.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for\SMD_THT Assy BOM_PNP\Pick and Place\THTa.csv
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for\SMD_THT Assy BOM_PNP\Bill of Materials\THTa.xlsx
+DItemRevisionGUID=
+
 [Parameter1]
-Name=Altium_Version
-Value=Release 22.10
+Name=Stencil_Thickness
+Value=0.125mm
 
 [Parameter2]
-Name=PCB_Controll
-Value=electronic
-
-[Parameter3]
-Name=PCB_Copper_Thickness
-Value=35um
-
-[Parameter4]
-Name=PCB_Data
-Value=Gerber
-
-[Parameter5]
-Name=PCB_Designer
-Value=PEK
-
-[Parameter6]
-Name=PCB_Layer_Count
-Value=4
-
-[Parameter7]
-Name=PCB_Material
-Value=FR-4 / UL94V-0 (or FR-5/Polyimid)
-
-[Parameter8]
-Name=PCB_Nummer
-Value=66.1910.0101
-
-[Parameter9]
-Name=PCB_Silkscreen
-Value=Top
-
-[Parameter10]
-Name=PCB_Solder_Surface
-Value=chem.NiAu - partial (or HAL)
-
-[Parameter11]
-Name=PCB_Surface
-Value=green
-
-[Parameter12]
-Name=PCB_Thickness
-Value=1.60 mm
-
-[Parameter13]
-Name=Project_Name
-Value=QAM16-Board
-
-[Parameter14]
-Name=Revision_V
-Value=a
-
-[Parameter15]
 Name=Schematic_Designer
 Value=PEK
 
+[Parameter3]
+Name=Revision_V
+Value=a
+
+[Parameter4]
+Name=Project_Name
+Value=QAM16-Board
+
+[Parameter5]
+Name=PCB_Thickness
+Value=1.60 mm
+
+[Parameter6]
+Name=PCB_Surface
+Value=matt black
+
+[Parameter7]
+Name=PCB_Solder_Surface
+Value=chem.NiAu - partial
+
+[Parameter8]
+Name=PCB_Silkscreen
+Value=Top
+
+[Parameter9]
+Name=PCB_Nummer
+Value=66.1910.0101
+
+[Parameter10]
+Name=PCB_Material
+Value=FR-4 / UL94V-0
+
+[Parameter11]
+Name=PCB_Layer_Count
+Value=4
+
+[Parameter12]
+Name=PCB_Designer
+Value=PEK
+
+[Parameter13]
+Name=PCB_Data
+Value=Gerber
+
+[Parameter14]
+Name=PCB_Copper_Thickness
+Value=35um
+
+[Parameter15]
+Name=PCB_Controll
+Value=electronic
+
 [Parameter16]
-Name=Stencil_Thickness
-Value=0.125mm
+Name=Altium_Version
+Value=Release 22.11
 
 [Configuration1]
 Name=Default Configuration
@@ -600,7 +720,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=\\ragsafeq01\prbd104
+TargetPrinter=Brother DCP-L3550CDW series Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=PCADNetlist
 OutputName1=PCAD Netlist
@@ -706,7 +826,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=\\ragsafeq01\prbd104
+TargetPrinter=Brother DCP-L3550CDW series Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -810,7 +930,7 @@ PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=\\ragsafeq01\prbd104
+TargetPrinter=Brother DCP-L3550CDW series Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -832,7 +952,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=\\ragsafeq01\prbd104
+TargetPrinter=Brother DCP-L3550CDW series Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CompositeDrill
 OutputName1=Composite Drill Drawing
@@ -904,7 +1024,7 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=\\ragsafeq01\prbd104
+TargetPrinter=Brother DCP-L3550CDW series Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=ReportHierarchy
 OutputName1=Report Project Hierarchy
@@ -961,11 +1081,17 @@ OutputDocumentPath8=
 OutputVariantName8=[No Variations]
 OutputDefault8=0
 PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType9=Export Project History
+OutputName9=Export Project History
+OutputDocumentPath9=
+OutputVariantName9=[No Variations]
+OutputDefault9=0
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=\\ragsafeq01\prbd104
+TargetPrinter=Brother DCP-L3550CDW series Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -1073,7 +1199,7 @@ PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=\\ragsafeq01\prbd104
+TargetPrinter=Brother DCP-L3550CDW series Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Design Rules Check
 OutputName1=Design Rules Check
@@ -1117,7 +1243,7 @@ OutputDefault7=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=\\ragsafeq01\prbd104
+TargetPrinter=Brother DCP-L3550CDW series Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=ExportSTEP
 OutputName1=Export STEP
@@ -1183,7 +1309,7 @@ OutputDefault12=0
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=\\ragsafeq01\prbd104
+TargetPrinter=Brother DCP-L3550CDW series Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
